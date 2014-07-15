@@ -1,1 +1,9 @@
 C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.exe.config
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.exe.config
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.Properties.Resources.resources
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.csproj.GenerateResource.Cache
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.exe
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.pdb
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.exe
+C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.pdb
