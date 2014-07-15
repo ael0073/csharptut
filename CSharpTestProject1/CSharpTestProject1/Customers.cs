@@ -14,6 +14,15 @@ namespace CSharpTestProject1
         private int custID;
         private string custMob;
 
+        //parametrised constructor
+        public Customers(string name, string surname, int id, string mobile)
+        {
+            custName = name;
+            custSurname = surname;
+            custID = id;
+            custMob = mobile;
+        }
+
         //setting up properties & mutators
         public int customerID
         {
