@@ -1,4 +1,5 @@
 C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.exe.config
+<<<<<<< HEAD
 C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.exe.config
 C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.csprojResolveAssemblyReference.cache
 C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.Properties.Resources.resources
@@ -7,3 +8,13 @@ C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\bin\Debug
 C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.pdb
 C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.exe
 C:\Users\MICMALTA19\Alastairrepo\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.pdb
+=======
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.exe
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\bin\Debug\CSharpTestProject1.pdb
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.Form1.resources
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.Properties.Resources.resources
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.csproj.GenerateResource.Cache
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.exe
+C:\Users\fguti_000\Desktop\gitRep\CSharpTestProject1\CSharpTestProject1\obj\Debug\CSharpTestProject1.pdb
+>>>>>>> 37648ee4e78e54690abbb68a0c12363c25c6bbf7
