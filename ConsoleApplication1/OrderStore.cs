@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CustomerOrdersConsoleApplication
+namespace ConsoleApplication1
 {
     class OrderStore
     {

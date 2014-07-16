@@ -10,3 +10,9 @@ C:\Users\fguti_000\Desktop\gitRep\ConsoleApplication1\obj\Debug\ConsoleApplicati
 C:\Users\fguti_000\Desktop\gitRep\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\fguti_000\Desktop\gitRep\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\fguti_000\Desktop\gitRep\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MICMALTA19\Alastairrepo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\MICMALTA19\Alastairrepo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\MICMALTA19\Alastairrepo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\MICMALTA19\Alastairrepo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MICMALTA19\Alastairrepo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\MICMALTA19\Alastairrepo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

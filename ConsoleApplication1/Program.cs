@@ -11,15 +11,18 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             productStore storep = new productStore();
-           
+            CustomerStore storec = new CustomerStore();
            
            
 
            storep.Load();
-            Products p = new Products("gt32", "garteh T-32", 7, 9);
+            Products p = new Products("gt34", "garteh T-32", 7, 9);
+            Customers c = new Customers("Alastair","vella","352494m","0");
+            Customers c1 = new Customers("Katia", "Abela", "352494m", "0");
            // Products p1 = new Products("gt32F", "garteh T-31", 7, 9);
-            
 
+            storec.addCustomer(c);
+            storec.addCustomer(c1);
             try
             {
                 storep.addProduct(p);
@@ -50,7 +53,10 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine(e);
             }*/
+            Console.WriteLine("all Products");
             storep.print();
+            Console.WriteLine("all Customers");
+            storec.print();
             storep.Save();
             
             Console.ReadLine();
