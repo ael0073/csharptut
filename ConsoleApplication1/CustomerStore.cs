@@ -6,7 +6,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpTestProject1
+namespace ConsoleApplication1
 {
   
         class CustomerStore
@@ -62,6 +62,13 @@ namespace CSharpTestProject1
                }
 
             }
+             public void print()
+             {
+                 for (int i = 0; i < customerList.Count; i++)
+                 {
+                     Console.WriteLine(customerList[i]);
+                 }
+             }
 
             public bool searchCustomers(string id)
             {

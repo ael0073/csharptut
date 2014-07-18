@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpTestProject1
+namespace ConsoleApplication1
 {
     class Customers
     {
