@@ -1,0 +1,10 @@
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\fguti_000\Desktop\gitRep\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources
